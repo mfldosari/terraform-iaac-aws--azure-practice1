@@ -51,5 +51,5 @@ This project showcases how to use **Terraform** for Infrastructure as Code (IaC)
 
 *Insert your architecture diagram image below (for example, a PNG or SVG file):*
 
-![Architecture Diagram](path/to/your/image.png)
+![Architecture Diagram](images/az-nd-aws.png)
 
