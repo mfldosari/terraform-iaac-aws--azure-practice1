@@ -1,0 +1,7 @@
+subscription_id = ""
+tenant_id       = ""
+db_username     = ""
+db_password     = ""
+key_name        = ""
+instance_type   = ""
+ami_id          = ""
